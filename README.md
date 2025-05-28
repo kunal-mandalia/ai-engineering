@@ -5,6 +5,15 @@
 
 ---
 
+## ⚡ Run demos
+```bash
+# Install dependencies
+poetry install
+
+# Start Jupyter notebook
+poetry run jupyter notebook
+```
+
 ## 🧠 Phase 1: Foundation (1–2 weeks)
 
 ### 📚 Core Concepts
